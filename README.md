@@ -105,11 +105,11 @@
 ### 🔐 PROFESSIONAL CERTIFICATIONS
 
 ```diff
-+ [CompTIA Pentest+ (Sep 2025)](https://www.credly.com/badges/0b516930-f6d4-408c-a01e-22ddd6d34a2d/public_url)     - Advanced Penetration Testing
-+ [CompTIA Security+ (June 2025)](https://www.credly.com/badges/a28deb5f-3195-4ec1-93e7-ef1ab7739d4b/public_url)   - Cybersecurity Fundamentals  
-+ [Digital Forensic Investigator (Jan 2025)](https://lms.quickhealacademy.com/certificates/verification/exam?id=LPU-0000-028171)   - QuickHeal
-+ [CompTIA Network+ (Sep 2024)](https://www.credly.com/badges/38a8fbdb-f571-4b83-92e0-2f960d06f0e3/public_url)     - Network Security Architecture
-+ Linux System Administration     - LPU (July 2024)
++ [CompTIA Pentest+ (Sep 2025)](https://www.credly.com/badges/0b516930-f6d4-408c-a01e-22ddd6d34a2d/public_url) - Advanced Penetration Testing
++ [CompTIA Security+ (June 2025)](https://www.credly.com/badges/a28deb5f-3195-4ec1-93e7-ef1ab7739d4b/public_url) - Cybersecurity Fundamentals  
++ [Digital Forensic Investigator (Jan 2025)](https://lms.quickhealacademy.com/certificates/verification/exam?id=LPU-0000-028171) - QuickHeal
++ [CompTIA Network+ (Sep 2024)](https://www.credly.com/badges/38a8fbdb-f571-4b83-92e0-2f960d06f0e3/public_url) - Network Security Architecture
++ Linux System Administration - LPU (July 2024)
 ```
 
 ### 🎯 ELITE ACHIEVEMENTS
