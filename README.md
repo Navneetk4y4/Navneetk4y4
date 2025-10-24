@@ -81,19 +81,6 @@
 | **Malware Analysis** | ⭐⭐⭐⭐ | YARA, Cuckoo, IDA Pro, Ghidra |
 | **Cloud Security** | ⭐⭐⭐⭐ | AWS Security, Azure AD, GCP IAM |
 
-## 🎯 OPERATIONAL EXPERIENCE
-
-### 🔴 RED TEAM LEAD
-**Cisco x LPU iGen — CyberSec Symposium** | *Sep 2023 – Dec 2023*
-
-```diff
-+ Coordinated elite cybersecurity symposium operations
-+ Managed cross-functional red team exercises  
-+ Orchestrated advanced threat simulation scenarios
-+ Maintained operational security protocols
-+ Led technical teams in adversarial exercises
-```
-
 ## 🚀 OPERATIONAL PROJECTS
 
 ### 🔍 RECON-AGENT — Advanced Reconnaissance Platform
@@ -160,13 +147,6 @@
 </tr>
 </table>
 
-## 🎓 ACADEMIC FOUNDATION
-
-```diff
-+ Lovely Professional University, Punjab, India
-+ B.Tech Computer Science & Engineering (Aug 2022 - Present)
-+ CGPA: 7.71/10.0 - Cybersecurity Specialization
-```
 
 ## 🔗 OPERATIONAL CONTACTS
 
