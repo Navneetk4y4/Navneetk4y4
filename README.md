@@ -68,8 +68,7 @@
 |------------|-------------------|------------------------|
 | **Network Security** | ⭐⭐⭐⭐ | Nmap, Wireshark, tcpdump, iptables |
 | **Web Application Security** | ⭐⭐⭐⭐ | Burp Suite, OWASP ZAP, SQLMap |
-| **Linux System Security** | ⭐⭐⭐⭐ | SELinux, AppArmor, auditd, chroot |
-| **Digital Forensics** | ⭐⭐⭐⭐ | Volatility, Autopsy, Sleuth Kit |
+
 
 ## 🚀 OPERATIONAL PROJECTS
 
