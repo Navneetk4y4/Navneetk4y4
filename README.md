@@ -152,17 +152,7 @@
 
 ---
 
-## 🔴 RED TEAM MISSION
 
-```bash
-# Core Operational Objectives
-┌─ Penetration Testing & Vulnerability Assessment
-├─ Red Team Operations & Adversarial Simulation  
-├─ Threat Hunting & Incident Response
-├─ Security Architecture & Risk Management
-├─ Digital Forensics & Malware Analysis
-└─ Security Automation & Tool Development
-```
 
 ---
 
