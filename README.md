@@ -3,7 +3,7 @@
 # 🔴 NAVNEET 🔴
 ## 🛡️ RED TEAM SECURITY ENGINEER 🛡️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Penetration+Tester;Red+Team+Specialist;Cybersecurity+Expert;Threat+Hunter;Security+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Penetration+Tester;Security+Engineer" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/navneetky)
 [![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Navneetk4y4)
