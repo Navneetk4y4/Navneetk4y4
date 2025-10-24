@@ -18,11 +18,8 @@
 ## 🔴 RED TEAM PROFILE
 
 ```diff
-+ ELITE CYBERSECURITY SPECIALIST
-+ PENETRATION TESTING EXPERT  
-+ RED TEAM OPERATIONS LEAD
-+ THREAT HUNTING SPECIALIST
-+ SECURITY ARCHITECT
++ PENETRATION TESTER
++ SECURITY ENGINEER
 ```
 
 > **"Think like an attacker, defend like a guardian"** - Elite cybersecurity professional with expertise in offensive security, red team operations, and advanced threat hunting. Specialized in penetration testing, vulnerability assessment, and adversarial simulation to strengthen organizational defenses.
@@ -63,23 +60,16 @@
 ├─ OWASP ZAP, SQLMap, John the Ripper
 └─ Custom Python/Bash automation
 
-# Defensive Tools  
-┌─ Splunk, ELK Stack, Wireshark
-├─ YARA, Sigma, Suricata
-├─ Nessus, OpenVAS, Qualys
-└─ Custom threat hunting scripts
 ```
 
 ### 🎯 SPECIALIZATIONS
 
 | **Domain** | **Expertise Level** | **Tools & Frameworks** |
 |------------|-------------------|------------------------|
-| **Network Security** | ⭐⭐⭐⭐⭐ | Nmap, Wireshark, tcpdump, iptables |
-| **Web Application Security** | ⭐⭐⭐⭐⭐ | Burp Suite, OWASP ZAP, SQLMap |
-| **Linux System Security** | ⭐⭐⭐⭐⭐ | SELinux, AppArmor, auditd, chroot |
+| **Network Security** | ⭐⭐⭐⭐ | Nmap, Wireshark, tcpdump, iptables |
+| **Web Application Security** | ⭐⭐⭐⭐ | Burp Suite, OWASP ZAP, SQLMap |
+| **Linux System Security** | ⭐⭐⭐⭐ | SELinux, AppArmor, auditd, chroot |
 | **Digital Forensics** | ⭐⭐⭐⭐ | Volatility, Autopsy, Sleuth Kit |
-| **Malware Analysis** | ⭐⭐⭐⭐ | YARA, Cuckoo, IDA Pro, Ghidra |
-| **Cloud Security** | ⭐⭐⭐⭐ | AWS Security, Azure AD, GCP IAM |
 
 ## 🚀 OPERATIONAL PROJECTS
 
