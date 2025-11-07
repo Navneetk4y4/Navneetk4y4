@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- Glossy Animated Header -->
@@ -44,6 +42,8 @@
 ! 🎯 Top 4% TryHackMe | 🏆 CTF Player | 🔍 Threat Hunter
 # 💻 Breaking things to make them more secure since always
 
+```
+
 <div align="center">
 🚀 QUICK FACTS
 🔭 Currently	🌱 Learning	🥅 2025 Goals
@@ -53,19 +53,19 @@ I turn coffee into security vulnerabilities	nvaneetky.me	Penetration Testing
 </div></div>
 📊 GITHUB WARROOM
 <div align="center"><!-- Stats Grid --><div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"><!-- GitHub Stats --><div style="background: linear-gradient(145deg, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; border: 1px solid #ff0000; box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3);">
-https://github-readme-stats.vercel.app/api?username=Navneetk4y4&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF6B6B&border_color=FF0000&bg_color=0d1117&hide_border=false&include_all_commits=true
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Navneetk4y4&show_icons=true&theme=radical&title_color=FF0000&icon_color=FF6B6B&border_color=FF0000&bg_color=0d1117&hide_border=false&include_all_commits=true)
 
 </div><!-- Streak Stats --><div style="background: linear-gradient(145deg, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; border: 1px solid #ff0000; box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3);">
-https://streak-stats.demolab.com?user=Navneetk4y4&theme=dark&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&border=FF0000&background=0D1117
+![Streak stats](https://streak-stats.demolab.com?user=Navneetk4y4&theme=dark&fire=FF0000&ring=FF0000&currStreakLabel=FF0000&border=FF0000&background=0D1117)
 
 </div></div><!-- Languages & Trophies --><div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"><!-- Top Languages --><div style="background: linear-gradient(145deg, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; border: 1px solid #ff0000; box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3);">
-https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetk4y4&layout=compact&theme=radical&title_color=FF0000&bg_color=0d1117&hide_border=false&langs_count=8
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetk4y4&layout=compact&theme=radical&title_color=FF0000&bg_color=0d1117&hide_border=false&langs_count=8)
 
 </div><!-- GitHub Trophies --><div style="background: linear-gradient(145deg, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; border: 1px solid #ff0000; box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3);">
-https://github-profile-trophy.vercel.app/?username=Navneetk4y4&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15
+![Trophies](https://github-profile-trophy.vercel.app/?username=Navneetk4y4&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
 
 </div></div><!-- Activity Graph --><div style="background: linear-gradient(145deg, #1a1f29, #0d1117); padding: 20px; border-radius: 15px; border: 1px solid #ff0000; box-shadow: 0 8px 32px rgba(255, 0, 0, 0.3); margin: 20px 0;">
-https://github-readme-activity-graph.vercel.app/graph?username=Navneetk4y4&custom_title=Navneet's%2520Cyber%2520Activity&theme=redical&bg_color=0d1117&color=FF0000&line=FF6B6B&point=FFFFFF&area=true&hide_border=true
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navneetk4y4&custom_title=Navneet's%2520Cyber%2520Activity&theme=redical&bg_color=0d1117&color=FF0000&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)
 
 </div></div>
 ⚡ TECH ARSENAL
