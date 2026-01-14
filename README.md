@@ -29,7 +29,6 @@
 
 - 🔭 I'm Currently Working as a Security Engineer
 - 🌱 I'm a CTF Player and ranked Top 4% @TryHackMe
-- 🥅 2025 Goals: Achieve OSCP certification and lead advanced red team operations
 - ⚡ Fun fact: I love breaking things to make them more secure
 - 🌐 To know more about me: [Checkout my Portfolio](https://nvaneetky.me)
 
